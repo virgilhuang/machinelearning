@@ -1,3 +1,15 @@
+
+<h3 id="12">特征工程与算法落地文章与代码：</h3>
+
+|文章 | 代码|
+---|---
+[特征工程之特征选择](https://www.cnblogs.com/pinard/p/9032759.html)|无
+[特征工程之特征表达](https://www.cnblogs.com/pinard/p/9061549.html)|无
+[特征工程之特征预处理](https://www.cnblogs.com/pinard/p/9093890.html)|无
+[用PMML实现机器学习模型的跨平台上线](https://www.cnblogs.com/pinard/p/9220199.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/model-in-product/sklearn-jpmml)
+[tensorflow机器学习模型的跨平台上线](https://www.cnblogs.com/pinard/p/9251296.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/model-in-product/tensorflow-java)
+
+
 # 刘建平Pinard的博客配套代码
 
 http://www.cnblogs.com/pinard 刘建平Pinard
